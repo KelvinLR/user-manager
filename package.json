@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "face-api.js": "^0.22.2",
+    "konva": "^10.2.3",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "react-konva": "^19.2.3",
+    "react-record-webcam": "^1.1.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.4",
